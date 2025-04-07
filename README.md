@@ -23,11 +23,6 @@ A simple React + TypeScript application that fetches and displays real-time weat
 
 ---
 
-## 📸 Preview
-
-> _(Add a screenshot or gif of the app here if you'd like)_
-
----
 
 ## 📦 Getting Started
 
