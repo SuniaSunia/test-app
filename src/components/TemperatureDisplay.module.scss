@@ -1,0 +1,28 @@
+.container {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 1rem;
+  text-align: center;
+  width: 320px;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 2rem;
+
+  h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+
+  .temperature {
+    font-size: 2rem;
+    color: #0070f3;
+    font-weight: 600;
+  }
+
+  .description {
+    color: #666;
+    margin-top: 0.25rem;
+    text-transform: capitalize;
+  }
+}
