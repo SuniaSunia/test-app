@@ -1,8 +1,8 @@
 import React from "react";
-import TemperatureContainer from "./containers/TemperatureContainer";
+import FizzBuzz from "./components/FizzBuzz";
 
 const App: React.FC = () => {
-  return <TemperatureContainer />;
+  return <FizzBuzz maxNumber={50} />;
 };
 
 export default App;
